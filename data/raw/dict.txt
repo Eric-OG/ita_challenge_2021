@@ -1,0 +1,16 @@
+n: número de agentes.
+p: fração de traders.
+f: grau de interesse dos traders.
+x, y, z: dimensão do espaço aéreo.
+a1, a2: média e desvio padrão do coeficiente do preço fundamental dos consumidores.
+a3, a4: média e desvio padrão do coeficiente do preço fundamental dos traders.
+b1, b2: média de desvio padrão do coeficiente do preço de mercado dos consumidores.
+b3, b4: média de desvio padrão do coeficiente do preço de mercado dos traders.
+c1, c2: média e desvio padrão do coeficiente do preço aleatório dos consumidores.
+c3, c4: média e desvio padrão do coeficiente do preço aleatório dos traders.
+g1, g2: média e desvio padrão do grau de agressividade dos consumidores.
+l1, l2: média e desvio padrão do coeficiente de desvalorização para os consumidores.
+l3, l4: média e desvio padrão do coeficiente de desvalorização para os traders.
+e1, e2: variabilidade no preço fundamental dos consumidores e traders, respectivamente.
+cent_price_cor: correlação entre preço final e centralidade das permissões de vôo (correlação de pearson [-1, 1]).
+cent_trans_cor: correlação entre número de transaçãoes e centralidade das permissões de vôo (correlação de pearson [-1, 1]).
